@@ -1,0 +1,17 @@
+{
+  "episode": 1,
+  "title": "Product vs Project: What Actually Changes",
+  "video": "ep01.mp4",
+  "subtitles": "ep01.srt",
+  "format": "1920x1080 landscape, 145 s, synthetic voice",
+  "youtube_link": "",
+  "reels_cut": [
+    {"slug": "reel_s01", "note": "Separate vertical build (Project or product? Ask this one question). Posted 12 Oct.", "start": null, "end": null}
+  ],
+  "candidate_segments": [
+    {"start": 0.5, "end": 24.2, "idea": "Project vs product in one line"},
+    {"start": 44.5, "end": 66.6, "idea": "The project triangle flips in agile"},
+    {"start": 67.3, "end": 84.2, "idea": "Two different questions: PM vs PO"},
+    {"start": 116.8, "end": 133.9, "idea": "Three things to do this week"}
+  ]
+}

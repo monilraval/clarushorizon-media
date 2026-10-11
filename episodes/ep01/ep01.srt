@@ -1,0 +1,207 @@
+1
+00:00:00,500 --> 00:00:03,593
+Plenty of teams plan a product the way they plan a project.
+
+2
+00:00:03,813 --> 00:00:06,245
+A start date, an end date, a launch party.
+
+3
+00:00:06,465 --> 00:00:08,855
+And then the product quietly dies on schedule.
+
+4
+00:00:09,605 --> 00:00:11,439
+Here is the difference in one line.
+
+5
+00:00:11,659 --> 00:00:13,238
+A project is temporary.
+
+6
+00:00:13,458 --> 00:00:17,149
+It has a start, an end, and a result that is defined up front.
+
+7
+00:00:17,369 --> 00:00:18,457
+Build the website.
+
+8
+00:00:18,677 --> 00:00:19,914
+Migrate the system.
+
+9
+00:00:20,134 --> 00:00:24,166
+When the result is delivered, the project is over, and the team moves on.
+
+10
+00:00:24,916 --> 00:00:26,708
+A product does not end at launch.
+
+11
+00:00:26,928 --> 00:00:30,277
+It lives as long as it keeps delivering value to customers.
+
+12
+00:00:30,497 --> 00:00:32,844
+Launch is just the point where you start learning.
+
+13
+00:00:33,064 --> 00:00:36,844
+You watch what people actually use, you fix what they struggle with,
+
+14
+00:00:36,844 --> 00:00:39,123
+and you keep deciding what to build next.
+
+15
+00:00:39,343 --> 00:00:42,031
+The work continues until the product is retired,
+
+16
+00:00:42,031 --> 00:00:43,823
+not when a plan says it is done.
+
+17
+00:00:44,573 --> 00:00:46,791
+This changes the old project triangle.
+
+18
+00:00:47,011 --> 00:00:49,403
+In a classic project, the scope is fixed,
+
+19
+00:00:49,403 --> 00:00:52,494
+and time and cost are what move when things go wrong.
+
+20
+00:00:52,714 --> 00:00:55,018
+That is why projects slip and overspend.
+
+21
+00:00:55,238 --> 00:00:57,115
+In agile product work, it flips.
+
+22
+00:00:57,335 --> 00:01:00,322
+Time and budget are set, usually in short cycles.
+
+23
+00:01:00,542 --> 00:01:03,273
+Scope is what you adjust, based on what you learn.
+
+24
+00:01:03,493 --> 00:01:06,629
+You cut the least valuable work instead of missing the date.
+
+25
+00:01:07,379 --> 00:01:09,000
+So the questions change too.
+
+26
+00:01:09,220 --> 00:01:10,705
+A project manager asks:
+
+27
+00:01:10,705 --> 00:01:14,191
+did we deliver what was agreed, on time and on budget?
+
+28
+00:01:14,411 --> 00:01:15,610
+A product owner asks:
+
+29
+00:01:15,610 --> 00:01:19,893
+is this still worth building for our customers, and what should we do next?
+
+30
+00:01:20,113 --> 00:01:21,521
+Both questions matter.
+
+31
+00:01:21,741 --> 00:01:24,195
+But only the second one keeps a product alive.
+
+32
+00:01:24,945 --> 00:01:27,782
+The early history of PayPal is a good reminder.
+
+33
+00:01:28,002 --> 00:01:31,501
+It started with a plan to move money between handheld devices.
+
+34
+00:01:31,721 --> 00:01:34,630
+The part people actually used, paying by email,
+
+35
+00:01:34,630 --> 00:01:36,734
+turned out to be the real product.
+
+36
+00:01:36,954 --> 00:01:39,429
+A team locked into a fixed scope could have missed it.
+
+37
+00:01:40,179 --> 00:01:43,805
+Picture a product information system rolled out as a project.
+
+38
+00:01:44,025 --> 00:01:47,908
+The go-live happens, the project closes, and the team is reassigned.
+
+39
+00:01:48,128 --> 00:01:52,181
+Six months later the product data is out of date, because nobody owns it.
+
+40
+00:01:52,401 --> 00:01:56,135
+That is what treating a product like a project looks like in practice.
+
+41
+00:01:56,885 --> 00:01:58,463
+Three things to do this week.
+
+42
+00:01:58,683 --> 00:01:58,923
+One:
+
+43
+00:01:58,923 --> 00:02:02,097
+name an owner for the outcome, not just the delivery.
+
+44
+00:02:02,317 --> 00:02:02,541
+Two:
+
+45
+00:02:02,541 --> 00:02:06,178
+set a review date after launch, and treat it as part of the work.
+
+46
+00:02:06,398 --> 00:02:06,792
+Three:
+
+47
+00:02:06,792 --> 00:02:10,537
+define success in customer terms, not in tasks completed.
+
+48
+00:02:10,757 --> 00:02:13,829
+That is the shift from project thinking to product thinking.
+
+49
+00:02:14,579 --> 00:02:17,885
+That was episode one of Product Management in Plain Language.
+
+50
+00:02:18,105 --> 00:02:18,776
+Next time:
+
+51
+00:02:18,776 --> 00:02:22,735
+how to tell simple, complicated and complex problems apart.
+
+52
+00:02:22,955 --> 00:02:24,597
+Sources are in the description.
