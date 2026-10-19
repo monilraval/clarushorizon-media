@@ -27,7 +27,7 @@
 - Disclose synthetic voice and AI-generated content where platforms ask.
 - No employer names in public content.
 - Never automate engagement (bots, follow/unfollow, auto-DMs, pods).
-- Only point people to things that are live. Before writing "Full episodes on YouTube" or "link in bio", check the YouTube channel has a public episode on that topic or at least one public episode. If none is public, use: "New episode on YouTube soon. Follow for tips every Mon, Wed and Fri."
+- YouTube episodes are released on Fridays (Episodes 1 and 2 are public). Do not write "Full episodes on YouTube" on Instagram slides or captions. Use: "New episode on YouTube every Friday. Subscribe so you don't miss it." (caption may add ", link in bio."). Only point people to things that are live.
 - Mon/Wed posts are standalone useful tips or teasers for the next episode; never reference an episode as out before it is public.
 
 ## Current goals (next 90 days)
