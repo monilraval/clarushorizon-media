@@ -1,0 +1,88 @@
+1
+00:00:00,280 --> 00:00:01,760
+The team wants customers
+
+2
+00:00:01,760 --> 00:00:02,840
+to reorder faster.
+
+3
+00:00:03,550 --> 00:00:04,760
+So they spend two months
+
+4
+00:00:04,760 --> 00:00:05,930
+specifying a smart
+
+5
+00:00:05,930 --> 00:00:07,300
+reorder dashboard.
+
+6
+00:00:07,690 --> 00:00:08,710
+It launches,
+
+7
+00:00:08,710 --> 00:00:10,340
+and almost nobody opens it.
+
+8
+00:00:10,910 --> 00:00:12,820
+When the team finally watches
+
+9
+00:00:12,820 --> 00:00:14,190
+a few customers order,
+
+10
+00:00:14,560 --> 00:00:16,350
+they see what people really do.
+
+11
+00:00:16,920 --> 00:00:18,400
+They type in the part number
+
+12
+00:00:18,400 --> 00:00:19,770
+from an old invoice.
+
+13
+00:00:20,290 --> 00:00:22,350
+So the team tries something much smaller.
+
+14
+00:00:22,870 --> 00:00:25,500
+A reorder button on past orders,
+
+15
+00:00:25,840 --> 00:00:26,760
+built in a week,
+
+16
+00:00:27,050 --> 00:00:27,900
+switched on for
+
+17
+00:00:27,900 --> 00:00:29,290
+a handful of customers,
+
+18
+00:00:29,440 --> 00:00:30,630
+and within days
+
+19
+00:00:30,630 --> 00:00:32,150
+it's clear people use it.
+
+20
+00:00:32,910 --> 00:00:34,000
+The dashboard was
+
+21
+00:00:34,000 --> 00:00:35,350
+a complicated answer
+
+22
+00:00:35,620 --> 00:00:37,200
+to a complex problem.
+
