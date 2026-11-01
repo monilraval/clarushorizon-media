@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:01,820
+So the questions change too.
+
+2
+00:00:01,820 --> 00:00:03,305
+A project manager asks:
+
+3
+00:00:03,305 --> 00:00:07,011
+did we deliver what was agreed, on time and on budget?
+
+4
+00:00:07,011 --> 00:00:08,210
+A product owner asks:
+
+5
+00:00:08,210 --> 00:00:12,713
+is this still worth building for our customers, and what should we do next?
+
+6
+00:00:12,713 --> 00:00:14,341
+Both questions matter.
+
+7
+00:00:14,341 --> 00:00:18,500
+But only the second one keeps a product alive.
