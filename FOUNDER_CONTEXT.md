@@ -8,7 +8,7 @@
 ## What we offer
 - Free tools: AI Acceptance Criteria Writer, AI Test Case Writer (Claude API, Vercel).
 - Paid: 30 AI Prompts for Product Managers, EUR 19, on Gumroad.
-- Content: YouTube series "Product Management in Plain Language" (weekly, 2 to 12 minutes), Instagram @clarushorizon (Mon/Wed/Fri), LinkedIn.
+- Content: YouTube series "Product Management in Plain Language" (weekly, 2 to 12 minutes; youtube.com/@clarushorizon), Instagram @clarushorizon (Mon/Wed/Fri), LinkedIn.
 - Coming: a practical handbook on products, projects and AI (Kindle, paperback, PDF bundle), launching after episode 10.
 
 ## Audience
