@@ -27,7 +27,7 @@
 - Disclose synthetic voice and AI-generated content where platforms ask.
 - No employer names in public content.
 - Never automate engagement (bots, follow/unfollow, auto-DMs, pods).
-- YouTube episodes are released on Fridays (Episodes 1 and 2 are public). Do not write "Full episodes on YouTube" on Instagram slides or captions. Use: "New episode on YouTube every Friday. Subscribe so you don't miss it." (caption may add ", link in bio."). Only point people to things that are live.
+- YouTube episodes are released on Fridays (Episodes 1 to 5 are public, as of 8 Nov 2026). Do not write "Full episodes on YouTube" on Instagram slides or captions. Use: "New episode on YouTube every Friday. Subscribe so you don't miss it." (caption may add ", link in bio."). Only point people to things that are live.
 - Mon/Wed posts are standalone useful tips or teasers for the next episode; never reference an episode as out before it is public.
 
 ## Current goals (next 90 days)
