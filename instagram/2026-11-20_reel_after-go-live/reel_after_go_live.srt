@@ -1,0 +1,35 @@
+1
+00:00:00,179 --> 00:00:03,805
+Picture a product information system rolled out as a project.
+
+2
+00:00:04,025 --> 00:00:07,908
+The go-live happens, the project closes, and the team is reassigned.
+
+3
+00:00:08,128 --> 00:00:12,181
+Six months later the product data is out of date, because nobody owns it.
+
+4
+00:00:12,401 --> 00:00:16,135
+That is what treating a product like a project looks like in practice.
+
+5
+00:00:16,885 --> 00:00:18,463
+Three things to do this week.
+
+6
+00:00:18,683 --> 00:00:22,097
+One: name an owner for the outcome, not just the delivery.
+
+7
+00:00:22,317 --> 00:00:26,178
+Two: set a review date after launch, and treat it as part of the work.
+
+8
+00:00:26,398 --> 00:00:30,537
+Three: define success in customer terms, not in tasks completed.
+
+9
+00:00:30,757 --> 00:00:33,829
+That is the shift from project thinking to product thinking.
