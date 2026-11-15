@@ -29,6 +29,12 @@
       "note": "Treating a product like a project (illustrative example) plus three things to do this week. Cut 8 Nov for Fri 20 Nov (draft, awaiting approval). Covers candidate 116.8 to 133.9 plus the lead-in example.",
       "start": 100.0,
       "end": 134.3
+    },
+    {
+      "slug": "reel_product_vs_project",
+      "note": "Project vs product in one line, extended to the 'a product does not end at launch' contrast. Cut 15 Nov for Fri 27 Nov (draft, awaiting approval). Overlaps the 12 Oct Reel's idea.",
+      "start": 0.3,
+      "end": 39.25
     }
   ],
   "candidate_segments": [

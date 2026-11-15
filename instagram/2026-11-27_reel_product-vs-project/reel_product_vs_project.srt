@@ -1,0 +1,55 @@
+1
+00:00:00,200 --> 00:00:03,293
+Plenty of teams plan a product the way they plan a project.
+
+2
+00:00:03,513 --> 00:00:05,945
+A start date, an end date, a launch party.
+
+3
+00:00:06,165 --> 00:00:08,555
+And then the product quietly dies on schedule.
+
+4
+00:00:09,305 --> 00:00:11,139
+Here is the difference in one line.
+
+5
+00:00:11,359 --> 00:00:12,938
+A project is temporary.
+
+6
+00:00:13,158 --> 00:00:16,849
+It has a start, an end, and a result that is defined up front.
+
+7
+00:00:17,069 --> 00:00:18,157
+Build the website.
+
+8
+00:00:18,377 --> 00:00:19,614
+Migrate the system.
+
+9
+00:00:19,834 --> 00:00:23,866
+When the result is delivered, the project is over, and the team moves on.
+
+10
+00:00:24,616 --> 00:00:26,408
+A product does not end at launch.
+
+11
+00:00:26,628 --> 00:00:29,977
+It lives as long as it keeps delivering value to customers.
+
+12
+00:00:30,197 --> 00:00:32,544
+Launch is just the point where you start learning.
+
+13
+00:00:32,764 --> 00:00:36,544
+You watch what people actually use, you fix what they struggle with,
+
+14
+00:00:36,544 --> 00:00:38,823
+and you keep deciding what to build next.
